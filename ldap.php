@@ -47,7 +47,7 @@ $GLOBALS['ldap'] = array (
 	# Default SREG values (default server settings)
 	'def_language'		=> 'en',
 	'def_postcode'		=> '1000',
-	'def_timezone'		=> 'Europe/Sofia'
+	'def_timezone'		=> 'UTC'
 );
 
 
