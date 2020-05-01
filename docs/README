@@ -127,7 +127,7 @@ that you use a server that you own and control.
    be searched using Filter setting. Note that it contains '%s'; that's where
    the username will be substituted before performing the lookup. For more
    information about LDAP search filters, go to 
-   http://confluence.atlassian.com/display/DEV/How+to+write+a+LDAP+search+filter
+   https://confluence.atlassian.com/kb/how-to-write-ldap-search-filters-792496933.html
    
    And finally, TestDB setting is similar to Filter one, except it describes 
    the DN of the user which tryes to login. It is needed in order to validate 
@@ -441,7 +441,7 @@ TROUBLESHOOTING
    Sometimes the unexpected happens. Sometimes bugs creep into the code. For
    all these times, check if you're using the latest version at:
 
-   http://www.openid-ldap.org/
+   https://github.com/bmwiedemann/openid-ldap/
 
 
 EOF
